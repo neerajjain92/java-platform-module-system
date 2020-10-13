@@ -1,5 +1,4 @@
 # Java Platform Module System
--- 
 
 ### Building Module 1
 
